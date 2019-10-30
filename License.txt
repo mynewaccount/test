@@ -1,3 +1,3 @@
 This is not even real code. You can do what you want with it...
 
-But if you want to use it, use under the terms of the MIT license.
+But if you want to use it, use under the terms of whatever license you like.
